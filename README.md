@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @richlaureta
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Software Engineering, and etc.
-- 🌱 I’m currently learning systems engineering.
+- 🌱 I’m currently learning Data Structures and ALgorithms.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
